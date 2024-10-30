@@ -1,0 +1,7 @@
+{
+  "name": "appcb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
